@@ -2,7 +2,8 @@
 
 A clean and minimal **To-Do List** application built with **React** and **Bootstrap**, designed to help users manage their daily tasks efficiently.
 
-![App Screenshot](./6246fd60-55d3-4397-a2ce-3d2017948ad9.png)
+![App Screenshot](<img width="1132" height="310" alt="image" src="https://github.com/user-attachments/assets/f9a9e2a1-024e-45ad-ad8b-152353b5ad49" />
+)
 
 ## 📋 Table of Contents
 
