@@ -1,16 +1,47 @@
-# React + Vite
+# 📝 Simple To-Do App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and minimal **To-Do List** application built with **React** and **Bootstrap**, designed to help users manage their daily tasks efficiently.
 
-Currently, two official plugins are available:
+![App Screenshot](./6246fd60-55d3-4397-a2ce-3d2017948ad9.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📋 Table of Contents
 
-## React Compiler
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Possible Improvements](#possible-improvements)
+- [Author](#author)
+- [License](#license)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Add new tasks easily.  
+- Mark tasks as **completed**.  
+- Filter by **All**, **Active**, or **Completed** tasks.  
+- Clear completed or all tasks with one click.  
+- Task counter (remaining tasks).  
+- Responsive and user-friendly design.  
+- Data saved locally with `localStorage` (optional).  
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** (functional components + hooks)  
+- **Vite** (development environment & bundler)  
+- **Bootstrap** (for layout and UI styling)  
+- **JavaScript (ES6+)**  
+- **CSS**
+
+---
+
+## ⚙️ Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/ahmed-boutarfa/simple-to-do-react-app.git
+   cd simple-to-do-react-app
