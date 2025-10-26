@@ -2,8 +2,8 @@
 
 A clean and minimal **To-Do List** application built with **React** and **Bootstrap**, designed to help users manage their daily tasks efficiently.
 
-![App Screenshot]([<img width="1132" height="310" alt="image" src="https://github.com/user-attachments/assets/f9a9e2a1-024e-45ad-ad8b-152353b5ad49" />](https://github.com/ahmed-boutarfa/simple-to-do-react-app/blob/main/public/Capture.PNG?raw=true)
-)
+([<img width="1132" height="310" alt="image" src="https://github.com/user-attachments/assets/f9a9e2a1-024e-45ad-ad8b-152353b5ad49" />](https://github.com/ahmed-boutarfa/simple-to-do-react-app/blob/main/public/Capture.PNG?raw=true)
+
 
 ## 📋 Table of Contents
 
